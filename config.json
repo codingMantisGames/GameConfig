@@ -10,19 +10,19 @@
     },
     {
       "weaponType": "SMG",
-      "cameraType": "TopDown",
+      "cameraType": "Follow",
       "fireDelay": 0.1,
       "movementSpeed": 5.5,
       "isContiniuesFire": true,
       "hasLaser": true
     },
     {
-      "weaponType": "LaserRifle",
-      "cameraType": "Follow",
+      "weaponType": "Rifle",
+      "cameraType": "TopDown",
       "fireDelay": 0.3,
       "movementSpeed": 5.0,
       "isContiniuesFire": true,
-      "hasLaser": true
+      "hasLaser": false
     }
   ]
 }
