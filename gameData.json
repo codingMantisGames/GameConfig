@@ -1,0 +1,28 @@
+{
+  "gameDatas": [
+    {
+      "weaponType": "Pistol",
+      "cameraType": "TopDown",
+      "fireDelay": 0.5,
+      "movementSpeed": 6.0,
+      "isContiniuesFire": false,
+      "hasLaser": false
+    },
+    {
+      "weaponType": "SMG",
+      "cameraType": "TopDown",
+      "fireDelay": 0.1,
+      "movementSpeed": 5.5,
+      "isContiniuesFire": true,
+      "hasLaser": true
+    },
+    {
+      "weaponType": "LaserRifle",
+      "cameraType": "Follow",
+      "fireDelay": 0.3,
+      "movementSpeed": 5.0,
+      "isContiniuesFire": true,
+      "hasLaser": true
+    }
+  ]
+}
