@@ -1,8 +1,8 @@
 {
   "gameDatas": [
     {
-      "weaponType": "Pistol",
-      "cameraType": "TopDown",
+      "weaponType": "PISTOL",
+      "cameraType": "NORMAL",
       "fireDelay": 0.5,
       "movementSpeed": 6.0,
       "isContiniuesFire": false,
@@ -10,15 +10,15 @@
     },
     {
       "weaponType": "SMG",
-      "cameraType": "Follow",
+      "cameraType": "SHORT",
       "fireDelay": 0.1,
       "movementSpeed": 5.5,
       "isContiniuesFire": true,
       "hasLaser": true
     },
     {
-      "weaponType": "Rifle",
-      "cameraType": "TopDown",
+      "weaponType": "SNIPER",
+      "cameraType": "LONG",
       "fireDelay": 0.3,
       "movementSpeed": 5.0,
       "isContiniuesFire": true,
