@@ -3,6 +3,8 @@
     {
       "weaponType": "PISTOL",
       "cameraType": "NORMAL",
+      "ammoCount": 6,
+      "reloadTime":1.0,
       "fireDelay": 0.5,
       "movementSpeed": 6.0,
       "isContiniuesFire": false,
@@ -11,6 +13,8 @@
     {
       "weaponType": "SMG",
       "cameraType": "SHORT",
+      "ammoCount": 6,
+      "reloadTime":1.0,
       "fireDelay": 0.1,
       "movementSpeed": 5.5,
       "isContiniuesFire": true,
@@ -19,6 +23,8 @@
     {
       "weaponType": "SNIPER",
       "cameraType": "LONG",
+      "ammoCount": 6,
+      "reloadTime":1.0,
       "fireDelay": 0.3,
       "movementSpeed": 5.0,
       "isContiniuesFire": true,
